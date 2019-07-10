@@ -1,0 +1,62 @@
+[
+    {
+        "casesfailed": 30,
+        "casespassed": 20,
+        "noofcases": 50,
+        "reason": "application server failed"
+    },
+    {
+        "casesfailed": 2,
+        "casespassed": 18,
+        "noofcases": 20,
+        "reason": "login error"
+    },
+    {
+        "casesfailed": 45,
+        "casespassed": 30,
+        "noofcases": 75,
+        "reason": "network error"
+    },
+    {
+        "casesfailed": 15,
+        "casespassed": 30,
+        "noofcases": 45,
+        "reason": "application server failed"
+    },
+    {
+        "casesfailed": 25,
+        "casespassed": 15,
+        "noofcases": 40,
+        "reason": "login error"
+    },
+    {
+        "casesfailed": 30,
+        "casespassed": 25,
+        "noofcases": 55,
+        "reason": "authentication error"
+    },
+    {
+        "casesfailed": 10,
+        "casespassed": 10,
+        "noofcases": 20,
+        "reason": "application server failed"
+    },
+    {
+        "casesfailed": 18,
+        "casespassed": 12,
+        "noofcases": 30,
+        "reason": "application server failed"
+    },
+    {
+        "casesfailed": 30,
+        "casespassed": 30,
+        "noofcases": 60,
+        "reason": "login error"
+    },
+    {
+        "casesfailed": 50,
+        "casespassed": 40,
+        "noofcases": 90,
+        "reason": "application server failed"
+    }
+]
